@@ -1,4 +1,8 @@
 
+##2014-03-13 
+  - **ambitious**
+  - **acid rain**
+
 ##2014-03-11_[Ir][Iə][iə]
   - **here** \ˈhir\
   	- There is a tree here.
