@@ -1,3 +1,167 @@
+##2014-03-15
+  - **heat** -- **hit**
+  - **peak** -- **pick**
+  - **beat** -- **bit**
+  - **tin** -- **ten**
+  - **big** -- **beg**
+  - **sail** -- **sell**
+  - **wait** -- **wet**
+  - **pain** -- **pen**
+  - **guess** -- **gas**
+  - **pen** --**pan**
+  - **bug** -- **bag**
+  - **uncle** -- **ankle**
+  - **duck** -- **dock**
+  - **hut** -- **hot**
+  - **hurt** -- **heart**
+  - **firm** -- **farm**
+  - **dirt** -- **dart**
+  - **bird** -- **board**
+  - **shirt** -- **short**
+  - **worm** -- **warm**
+  - **pool** -- **pull**
+  - **fool** -- **full**
+  - **coat** -- **caught**
+  - **bowl** -- **ball**
+
+  - **ago**
+  - **agree, agreed, agreement**
+  - **ague, bad cold** 
+  - **ahead** 
+  - **aid** 
+  - **aim**
+  - **air** 
+  - **aircraft** 
+  - **airfield** 
+  - **airport** 
+  - **aisle** 
+    - Would you like a window seat or an aisle seat?   
+  - **alarm, alarmed, alarming** 
+  - **alchemy, alchemist** 
+  - **alcohol, alcoholic**
+  - **alias** 
+  - **alive** 
+  - **all** 
+  - **alligator** 
+  - **ally, allied** 
+  - **almost** 
+  - **alone**
+  - **along**
+  - **alongside** 
+  - **aloud**
+  - **alphabet, alphabetical, alphabetically**  
+  - **already** 
+  - **also** 
+  - **alter** 
+  - **alternate** 
+  - **alternative** 
+  - **although** 
+  - **altogether** 
+  - **aluminium(British) = aluminum**  
+  - **always**
+  - **amaze, amazed, amazement, amazing** 
+  - **ambiguity, ambiguous** 
+  - **ambitious, ambitiously, ambitiousness**
+  - **ambulance** 
+  - **amend, amendment** 
+  - **amid**
+  - **among** 
+  - **amount** 
+  - **amuse, amused, amusement, amusing** 
+  - **an**
+  - **analysis**  
+  - **anarchist, anarchistic** 
+  - **ancient** 
+  - **and** 
+  - **anger**
+  - **angry**
+  - **animal** 
+  - **ankle** 
+  - **anniversary**   
+  - **annoy, annoyance, annoyed, annoying**
+  - **announce, announcement** 
+  - **annual** 
+  - **answer** 
+  - **another** 
+  - **antenna**
+  - **anticipate** 
+  - **antonym, synonym** 
+    - a dictionary of synonyms and antonyms
+  - **antivirus**
+  - **anxiety, anxious** 
+  - **any**
+  - **anymore**  
+  - **anything** 
+  - **anyway**
+  - **anywhere**  
+  - **apart** 
+  - **apartment** 
+  - **apostrophe** = \`
+  - **apparent, apparently** 
+  - **appear, appearance** 
+  - **appetite** 
+    - I seem to have lost my appetite lately.
+  - **appetizer** 
+  - **apple** 
+  - **applicable, applicant, application** 
+  - **apply** 
+  - **appoint** 
+  - **approach** 
+  - **approval, approve, approved, approving** 
+  - **approximate, approximately** 
+  - **arbitrary**
+  - **arcade** 
+  - **archaic** 
+  - **area** 
+  - **argue, argument**
+  - **arm, armed, army**  
+  - **armchair** 
+  - **around** 
+  - **arrange, arrangement** 
+  - **arrest**
+  - **arrival, arrive**  
+  - **arrow** 
+  - **art, artist, artistic** 
+  - **article** 
+  - **artificial**
+  - **as** 
+  - **ascend, OPP descend**  
+  - **ash, ashes**
+  - **asleep** 
+  - **aspect** 
+  - **aspire** 
+  - **aspirin** 
+  - **assign**
+  - **assistant**  
+  - **asthma** 
+  - **atom**
+  - **attend, attendant, attender**
+  - **audible** 
+  - **aura** 
+  - **authenticate, authentication**
+  - **authority** 
+  - **authorize(authorise)**
+  - **autobiographical, autobiography** 
+  - **avatar** 
+  - **award** 
+  - **awful, awfully**
+  - **awkward, awkwardly, awkwardness** 
+  - **axe = ax**(*American*)
+  - **azure**
+
+  - **backslash**
+  - **backward, backwardness**, *adj.*
+    - She went without a backward glance.
+    - a backward country; 
+    - a backward child
+  - **backwards**, *adv.*
+  - **bacon**
+  - **bacteria[plural], bacterial**, *singular* **bacterium**, **virus**, 
+  - **baroque**
+  - **beat** 
+  - **Brizal, Brizilian**
+  - **forward(s)**
+
 
 ##2014-03-13 
   - **ambitious**
