@@ -24,13 +24,43 @@
   - **coat** -- **caught**
   - **bowl** -- **ball**
 
+  - **accept, acceptable, acceptably, acceptability, acceptance, accepted, unacceptable**
+  - **accessory**
+  - **accident, accidental, accidentally**
+    - by accident
+  - **accredit, accredited, accreditation**
+  - **accumulate, accumulation, accumulative, accumulatively, accumulator**  
+  - **accuracy, accurate, accurately**
+  - **acquisitive**
+  - **acquit**
+  - **act, acting, action**
+  - **activate, activation**
+  - **ad = advertisement**
+  - **addition, additional, additionally**
+  - **adequate, adequately**
+  - **adoptive**
+  - **advance, advanced, advancement, advancing**
+  - **advantage, disadvantage**
+  - **advent, Advent**
+  - **adventure, adventurer, adventurous**
+  - **adverb**
+  - **aerosol** -> spray
+  - **afar**
+    - from afar -> I saw him from afar.
+  - **affect, affected, affecting, affection**
+  - **afford**
+  - **Africa, African**
+  - **afterwards**
+  - **agnostic, agnosticism**
   - **ago**
-  - **agree, agreed, agreement**
+  - **agree, agreed, agreement, agreeable**
+  - **agriculture**
   - **ague, bad cold** 
   - **ahead** 
   - **aid** 
+  - **aide**
   - **aim**
-  - **air** 
+  - **air, air conditioner, air conditioning** 
   - **aircraft** 
   - **airfield** 
   - **airport** 
@@ -40,9 +70,13 @@
   - **alchemy, alchemist** 
   - **alcohol, alcoholic**
   - **alias** 
+  - **alien** (**SYN** strange, foreign)
   - **alive** 
   - **all** 
+    - all right
+  - **allegation**
   - **alligator** 
+  - **allow**
   - **ally, allied** 
   - **almost** 
   - **alone**
@@ -59,50 +93,61 @@
   - **altogether** 
   - **aluminium(British) = aluminum**  
   - **always**
+  - **a.m**
   - **amaze, amazed, amazement, amazing** 
   - **ambiguity, ambiguous** 
   - **ambitious, ambitiously, ambitiousness**
   - **ambulance** 
   - **amend, amendment** 
   - **amid**
+  - **ammunition**
   - **among** 
   - **amount** 
+  - **amplitude**
   - **amuse, amused, amusement, amusing** 
   - **an**
-  - **analysis**  
+  - **anaconda** (a very large South American snake)
+  - **analyse, analyze, analysis, analyst**  
   - **anarchist, anarchistic** 
   - **ancient** 
   - **and** 
+  - **anecdote**
   - **anger**
-  - **angry**
+  - **angrily, angry**
   - **animal** 
   - **ankle** 
   - **anniversary**   
   - **annoy, annoyance, annoyed, annoying**
   - **announce, announcement** 
-  - **annual** 
+  - **annual, annualized, annually** 
   - **answer** 
   - **another** 
   - **antenna**
   - **anticipate** 
+  - **anticorruption**
   - **antonym, synonym** 
     - a dictionary of synonyms and antonyms
   - **antivirus**
-  - **anxiety, anxious** 
+  - **anxiety, anxious, anxiously** 
   - **any**
   - **anymore**  
+  - **anyone**
   - **anything** 
   - **anyway**
   - **anywhere**  
   - **apart** 
+    - apart from = except for (as well as)
   - **apartment** 
+  - **apologise, apologize, apology**
   - **apostrophe** = \`
-  - **apparent, apparently** 
+  - **apparatus** = equipment, machinery
+  - **apparent = obvious, apparently** 
   - **appear, appearance** 
   - **appetite** 
     - I seem to have lost my appetite lately.
   - **appetizer** 
   - **apple** 
+  - **appliance** (a piece of equipment, espicially electrical equipment, such as cooker or washing machine)
   - **applicable, applicant, application** 
   - **apply** 
   - **appoint** 
@@ -111,10 +156,13 @@
   - **approximate, approximately** 
   - **arbitrary**
   - **arcade** 
+  - **arch**
   - **archaic** 
+  - **architect, architectural, architecturally, architecture**
   - **area** 
   - **argue, argument**
   - **arm, armed, army**  
+  - **armor**
   - **armchair** 
   - **around** 
   - **arrange, arrangement** 
@@ -122,34 +170,71 @@
   - **arrival, arrive**  
   - **arrow** 
   - **art, artist, artistic** 
+  - **artefact**(*British*), **artifact**(*American*)
   - **article** 
-  - **artificial**
+  - **artificial, artificially, artificiality**
   - **as** 
   - **ascend, OPP descend**  
   - **ash, ashes**
+  - **ashamed**
+  - **Asia, Asian, Asiatic**
+  - **aside** (*adv.*, *noun*)
+      - aside from sb/sth(*American*) = except for (in addition to, apart from)
+  - **ask**
   - **asleep** 
+    - fall asleep
   - **aspect** 
   - **aspire** 
   - **aspirin** 
-  - **assign**
-  - **assistant**  
+  - **assign, assignment**
+  - **assist, assistance, assistant**  
+  - **associate, association**
+  - **asterisk** = *
   - **asthma** 
+  - **asylum**
+  - **asymmetric = asymmetrical** **OPP** *symmetric/symmetrical
+  - **at**
   - **atom**
-  - **attend, attendant, attender**
+  - **attach, attachment**
+  - **attack**
+  - **attempt**
+  - **attend, attandance, attendant, attender, attendee**
+  - **attention**
+    - pay attention
+  - **attic**
+  - **attitude**
+    - a very positive attitude to life.
+  - **attorney** (*American*) = **lawyer**
+  - **attract, attraction, attractive, attractively, attractiveness**
   - **audible** 
+  - **aunt**
   - **aura** 
+  - **august, August**
   - **authenticate, authentication**
+  - **author**
   - **authority** 
   - **authorize(authorise)**
   - **autobiographical, autobiography** 
+  - **automatic, automatically**	
   - **avatar** 
+  - **avenue**
+  - **average**
+  - **avoid, avoidable, avoidance**
+  - **author**
+  - **autumn** = **fall**(*American*)
+  - **awake, awaken, awakening**
   - **award** 
+  - **aware, awareness**
+  - **away**
   - **awful, awfully**
   - **awkward, awkwardly, awkwardness** 
   - **axe = ax**(*American*)
   - **azure**
 
-  - **backslash**
+  - **baby**
+  - **bachelor**
+  - **background**
+  - **backslash** = \\
   - **backward, backwardness**, *adj.*
     - She went without a backward glance.
     - a backward country; 
@@ -157,9 +242,15 @@
   - **backwards**, *adv.*
   - **bacon**
   - **bacteria[plural], bacterial**, *singular* **bacterium**, **virus**, 
+  - **bad**
+  - **badge**
+  - **bag**
   - **baroque**
   - **beat** 
+  - **Belgium**
   - **Brizal, Brizilian**
+  - **Buddha, Buddhism, Buddhist**  
+  - **fearless, fearlessly, fearlessness**
   - **forward(s)**
 
 
