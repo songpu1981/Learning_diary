@@ -9,6 +9,7 @@
      `apt-cyg -m http://mirrors.163.com/cygwin/`
      `apt-cyg update`
   3. `apt-cyg install ping -u`
+     `apt-cyg install procps -u`
 
 
 
