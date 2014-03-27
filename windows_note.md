@@ -13,6 +13,13 @@
   5. Enjoy.
 
 
+##Commands
+  - Disk Management : diskmgmt.msc
+
+
+
+
+
 
   [1]:http://blog.erratasec.com/2009/11/windows-7-includes-soft-ap.html#.UyufqVfpDzI
   [2]:http://www.ishanarora.com/2009/07/29/windows-7-as-a-wireless-access-point/
