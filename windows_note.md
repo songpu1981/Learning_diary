@@ -14,7 +14,10 @@
 
 
 ##Commands
-  - Disk Management : diskmgmt.msc
+  - Disk Management       : diskmgmt.msc
+  - Control panel tool:
+    - Display Properties  : control desk.cpl
+    - System Properties   : control sysdm.cpl
 
 
 
