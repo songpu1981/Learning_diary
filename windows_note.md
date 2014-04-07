@@ -19,6 +19,9 @@
     - Display Properties  : control desk.cpl
     - System Properties   : control sysdm.cpl
 
+##display the existing mapping drivers
+  - `net use`
+
 
 
 
