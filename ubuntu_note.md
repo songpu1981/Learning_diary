@@ -20,9 +20,10 @@
   1. `net use z: \\192.168.1.107\backup_disk <smbpasswd> /user:<Ubuntu user>`
 
 
-     
+##[install java on Ubuntu][3]     
 
 
 
   [1]:http://ubuntu.com.cn/download/desktop/create-a-usb-stick-on-windows
   [2]:http://ubuntuserverguide.com/2012/06/install-samba-server-ubuntu-server-1204-lts.html
+  [3]:http://www.wikihow.com/Install-Java-on-Linux
