@@ -40,7 +40,13 @@ return
 ::brp::Best regards,{Enter}Peter
 
 
-
+/*
+^!c::
+loop 100
+{
+	click 52,117
+}
+*/
 
 
 
