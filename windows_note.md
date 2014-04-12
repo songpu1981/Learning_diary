@@ -18,6 +18,9 @@
   - Control panel tool:
     - Display Properties  : control desk.cpl
     - System Properties   : control sysdm.cpl
+    - Internet Properties : control inetcpl.cpl
+
+
 
 ##display the existing mapping drivers
   - `net use`
