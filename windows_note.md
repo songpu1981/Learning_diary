@@ -22,7 +22,12 @@
 ##display the existing mapping drivers
   - `net use`
 
-
+##File extension associations
+  - display current file associations
+    `assoc` 
+  - display current file types that have open command strings defined.
+    `ftype`
+    
 
 
 
