@@ -4,3 +4,8 @@
   3. `tar -zxvf directory.tar.gz`
 
   [1]:http://blog.csdn.net/yuyongpeng/article/details/1818717
+
+##Find the version of Linux distribution
+  - `lsb_release -a`
+  - `uname -a`
+
