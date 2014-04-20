@@ -1,7 +1,12 @@
 #Netbeans note
 
+## Use specific JVM
+  1. Open file "<netbeans home>/etc/netbeans.conf"
+  2. Change "netbeans_jdkhome" like it below.
+        netbeans_jdkhome="/home/peter/apps/jdk-8u5-linux-x64/jdk1.8.0_05"
 
-#[Add "deadlock" source] [1]
+
+##[Add "deadlock" source] [1]
 
   1. Tools > plugins > settings > add >
  
